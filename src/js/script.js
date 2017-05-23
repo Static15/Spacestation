@@ -8,6 +8,12 @@ document.getElementById("nav-list").classList.toggle("show");
 document.getElementById("bar").classList.toggle("bar-rot");
 }
 
+function delay() {
+  setTimeout(showMenu, 2000);
+}
+
+delay();
+
 burger.addEventListener("click", showMenu, false);
 
 
