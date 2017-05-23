@@ -6,6 +6,16 @@ body {
    font-family: 'Helvetica', sans-serif;
    color: white;
 }
+	
+.slider {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  transform: translateY(600px);
+  width: 100%;
+}
 
 .bar{
   position: relative;
