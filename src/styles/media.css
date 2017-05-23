@@ -1,3 +1,4 @@
+
 @media only screen and (max-width: 1023px){
 html,
 body {
@@ -9,6 +10,7 @@ body {
 	
 .slider {
   position: relative;
+  left: 130px;	
   z-index: 1;
   text-align: center;
   display: flex;
@@ -174,7 +176,7 @@ li{
 body {
    height: 100%;
    background-color: #333;
-   font-family: 'Helvetica', sans-serif;
+/*    font-family: 'Helvetica', sans-serif; */
    color: white;
 }
 
@@ -214,7 +216,7 @@ body {
    transition: all .25s;
    position: absolute;
    right: 0;
-   border: 2px solid green;
+/*    border: 2px solid green; */
    height: 36px;
    width: 36px;
    cursor: pointer;
