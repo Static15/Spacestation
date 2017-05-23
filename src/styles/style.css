@@ -50,7 +50,7 @@ body{
 
 .nav_list__link{
   text-decoration: none;
-  padding: 12px;
+  margin-right: 10px;
   color: #fff;
   text-transform: uppercase;
 }
@@ -254,9 +254,11 @@ body{
 
 .slider {
   position: relative;
-  top: 600px;
   z-index: 1;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  transform: translateY(600px);
   width: 100%;
 }
 
