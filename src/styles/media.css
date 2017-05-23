@@ -116,7 +116,7 @@ body {
     top: 25px;
   }
 }
-
+/*  */
 .nav_list__item {
       transition: all .15s;
       text-decoration: none;
@@ -176,7 +176,7 @@ li{
 body {
    height: 100%;
    background-color: #333;
-/*    font-family: 'Helvetica', sans-serif; */
+   font-family: 'Helvetica', sans-serif;
    color: white;
 }
 
