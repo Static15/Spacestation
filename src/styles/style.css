@@ -167,7 +167,7 @@ body{
 
 .slider__button_white{
   color: #b7b7b7;
-  opacity: 1;
+r  opacity: 1;
 }*/
 
 /* верстка base */
@@ -177,7 +177,7 @@ body{
   height: 290px;
 }
 
-.base__nav{
+a.base__nav{
   padding: 0 180px;
   padding-top: 30px;
 }
@@ -195,6 +195,7 @@ body{
   justify-content: center;
   align-items: center;
 }
+
 
 .services__logo{
   width: 95px;
@@ -240,6 +241,7 @@ body{
   background-color: #d7d7d8;
   display: inline-block;
   border-radius: 50%;
+  margin-left: 8px;
   opacity: 0.5;
   transition: all 0.3s ease-in-out 0s;
   border: 1px solid #f7f7f7;
