@@ -99,7 +99,7 @@ body {
 
 .show{
   visibility: visible;
-  transition: all 0s;
+  transition: all 1.5s;
   position: relative;
   left: 10px;
   top: 25px;
@@ -256,7 +256,7 @@ cursor: pointer;
 
 .show{
   visibility: visible;
-  transition: all 0s;
+  transition: all 1.5s;
   position: relative;
   left: 10px;
   top: 25px;
