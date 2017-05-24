@@ -1,4 +1,3 @@
-
 @media only screen and (max-width: 1023px){
 html,
 body {
@@ -104,6 +103,8 @@ body {
   position: relative;
   left: 10px;
   top: 25px;
+  max-height: 12em;
+  padding-bottom: 1em;
 }
 	
 /*  */
@@ -259,6 +260,8 @@ cursor: pointer;
   position: relative;
   left: 10px;
   top: 25px;
+  max-height: 12em;
+  padding-bottom: 1em;	
 /*   animation-name: menu;
    animation-duration:1.1s;
    animation-iteration-count: 1;
