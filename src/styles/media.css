@@ -170,7 +170,7 @@ body {
    color: white;
 }
 
-.bar{
+.bar{ 
   position: relative;
   left: 3px;
   top: 15px;
@@ -209,7 +209,7 @@ body {
 /*    border: 2px solid green; */
    height: 36px;
    width: 36px;
-   cursor: pointer;
+cursor: pointer;
 }
 
 .header__button{
@@ -228,10 +228,12 @@ body {
 }
 
 .nav-list{
-  transition: all 0s;
+  transition: all 0.5s ease-in;
   position: fixed;
   visibility: hidden;
-/*   animation-name: menu;
+  overflow: hidden;
+  max-height: 0;
+	/*   animation-name: menu;
   animation-duration:1.1s;
   animation-iteration-count: 1;
   animation-direction: reverse; */
