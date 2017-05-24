@@ -103,7 +103,7 @@ body {
   position: relative;
   left: 10px;
   top: 25px;
-  max-height: 12em;
+  max-height: 14em;
   padding-bottom: 1em;
 }
 	
@@ -260,7 +260,7 @@ cursor: pointer;
   position: relative;
   left: 10px;
   top: 25px;
-  max-height: 12em;
+  max-height: 14em;
   padding-bottom: 1em;	
 /*   animation-name: menu;
    animation-duration:1.1s;
