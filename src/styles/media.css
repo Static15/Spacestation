@@ -76,7 +76,7 @@ body {
 }
 
 .nav-list{
-  transition: all ease-in 1s;
+  transition: all ease-in .5s;
   position: fixed;
   visibility: hidden;
   overflow: hidden;
@@ -229,7 +229,7 @@ cursor: pointer;
 }
 
 .nav-list{
-  transition: all 1.5s;
+  transition: all .5s;
   position: fixed;
   visibility: hidden;
   overflow: hidden;
